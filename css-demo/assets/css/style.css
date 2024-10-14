@@ -149,7 +149,7 @@ html {
     text-transform: uppercase;
     font-size: 0.6rem;
     text-align: center;
-    color: #FFCFD6;
+    color: #000000;
   }
   
   #blog .post a {
@@ -158,8 +158,9 @@ html {
   
   aside[role="complementary"]{
   background-color: #FFCFD6;
-  color:#ffffff;
+  color:#000000;
   padding:40px 0;  
+  
   }
   
   aside .container{
@@ -170,13 +171,14 @@ html {
   }
   
   aside article.widget a{
-    color:#ffffff;
+    color:#000000;
+   
   }
   
   aside article.widget a:last-of-type{
     display:block;
     margin-top:20px;
-    text-align:right;
+    text-align:left;
   }
   
   aside article.widget footer{
